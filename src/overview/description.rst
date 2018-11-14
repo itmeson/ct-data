@@ -2,14 +2,15 @@ Course Description
 ##################
 
 
-:date: 2018-08-20
-:summary: What is the computational thinking course about?
+:date: 2018-11-13
+:summary: What is the computational thinking course about data about?
 :tags: overview, start, ubd, syllabus
 :category: overview
 
 
 
-Machine learning, automation, and artificial intelligence are technologies that already have dramatic effects on our daily lives, and will continue to impact them in challenging ways -- from recommending our music, targeting our advertising, and managing our money to driving our cars. In many ways these technologies will change the nature of work in many fields.  This trimester course will explore the technologies behind the hype to develop an understanding of how they work, where they are headed, the ethical issues raised by them, and how to navigate a changing world.  Students will complete demonstration programming projects, read primary literature, and engage in discussion.  Prior programming experience is not required.
+Dealing with data is one of the most important aspects of making progress in any field -- from science to business to journalism.  Understanding the world requires understanding and manipulating data.  Students in this class will learn a popular open-source programming and data analysis software system that will enable them to explore, make inferences, and visualize data sets in informative ways.  Skills learned in this class will be widely applicable to many fields of study and future careers.  Prior programming experience is not required.
+
 
 **General goals of the course and of the Computational Thinking requirement:**
 
@@ -30,12 +31,11 @@ We want graduates of our programs to embrace the opportunities to combine their 
 **Specific goals:**
 
  * Develop the technical insight to ask good questions
- * Understanding artificial intelligence in the 21st century
+ * Understanding data analysis in the 21st century
  * How can computers help/hinder human decision making?
  * Understand the distinctions between machine learning, artificial intelligence, and statistics/data science
- * Understand the distinctions between supervised and unsupervised learning
- * Understand the distinctions between different machine learning approaches and goals
- * Demonstrate the ability to use and/or implement machine learning techniques in example applications 
+ * Use programming and visualization as tools to understand and present data
+ * Select appropriate tools and representations to communicate about data
 
 
 

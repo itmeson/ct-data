@@ -24,6 +24,8 @@ Day 1
 Day 2
 =====
 
-
+ 1. Install `Anaconda <https://www.anaconda.com/download>`_  Make sure you get the python 3.7 version appropriate for your operating system.  Talk to Mark immediately if you have problems with the download or the installation. Nick will be available to help deal with any installation issues outside of class.
+ 2. We will begin with a sample visualization of data. (TODO)
+ 
 
    
