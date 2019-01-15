@@ -14,4 +14,8 @@ This is the start of a list of data sets that look like they might be interestin
  * `Zillow home price data sets <https://www.zillow.com/research/data/>`_
  * `Climate data from NOAA <https://www.ncdc.noaa.gov/cdo-web/datasets>`_
  
+Visualization and Analysis Examples
+
+ * `KANTAR Information is Beautiful Awards <https://www.informationisbeautifulawards.com/news/323-information-is-beautiful-awards-2018-the-winners>`_
+
    

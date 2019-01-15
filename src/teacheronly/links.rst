@@ -15,6 +15,6 @@ About spreadsheets
 About data organization
 
  * `Tidy Data in Python <http://www.jeannicholashould.com/tidy-data-in-python.html>`_
- * Hadley Wickham's original paper on `Tidy Data <pages/tidy-data.pdf>`_
+ * Hadley Wickham's original paper on `Tidy Data <images/tidy-data.pdf>`_
  * About `file naming <http://phdcomics.com/comics/archive.php?comicid=1531>`_
    
