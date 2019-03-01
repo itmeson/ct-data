@@ -66,4 +66,40 @@ Week 3
  2. The flowcharting assignment was tough for them -- they just think of "add all the items in a list" as an atomic operation.  But I still think it was a good thing to do.  Perhaps I need to adopt a style convention for them to teach them.
 
 
+======
+Week 4
+======
+
+ 1. This was the week before the winter break, and it was dominated by getting people caught up on project 4 and getting back some of the "seeing cool things others have done" feel
+
+ 2. We took a look at the Information is Beautiful awards site and I asked them to write about one of the award winning visualization projects.  Most of them enjoyed this project a lot and they got something out of seeing what is possible.  However, there wasn't a lot of understanding of how the data was acquired, processed, or displayed, and not a lot of connection/transfer to what we have been doing with pandas.
+
+======
+Week 5
+======
+
+ 1. This was the week after the winter break, and there was a lot of getting people reminded how to do things, finishing project 4 (!) and watching some videos
+
+ 2. It's hard to find videos that are completely un-problematic.  
+
+
+======
+Week 6
+======
+
+ 1. I punted on Monday with some more videos of artists and historians doing data visualization
+
+ 2. Started project 5, which is intended to get a little more concrete about functions by backing way up, and then to write a function to access data from a twitter data set.
+
+   * I definitely need to walk them through code more often.  The codelens tool and pythontutor are very helpful, but I find it difficult in the big classto feel good about doing demos up front.  It is probably really worth it to get the screencast setup so they can actually *see* what I am doing, and I need to commit to doing the up-front stuff even though it doesn't feel comfortable to me
+   * I need more things to have them do, so I can progressively de-scaffold more.  I want them to at least feel that they are doing a real thing, and I need to strip away the scaffold.  What I did was to progressively increase the complexity of the fully-worked examples, then remove the scaffold entirely for their actual tasks.  I think it needs to be the other way around.  Start with nearly the full complexity, full scaffolded.  Then strip away the scaffold as they complete tasks.
+   
+ 3. Is it okay to go backward even more now?  Now that they've gotten going on this project?  
+
+ 4. The advanced kids are done with it already, and didn't need the practice.  Everyone else is still mystified by where to start, and they still have a distinct feeling that the code is a magic word incantation.  I think that is because they don't have a sense of what a variable is, so they think the variable names are part of the incantation.  That makes it just about impossible to understand what is happening when you call a function, pass a main-level scoped variable by value to the function, instantiate the function-scoped variable to hold that value, perform operations on it, then return by value back to the main-scope.
+
+ 5. I ended up solving it for several of them.  Not the right answer.
+
+
+
    

@@ -35,6 +35,7 @@ Day 2
 
  1. We're going to get started on project 5 today -- please use the `assignment link <https://classroom.github.com/a/c6dO3dSH>`_ to accept the assignment, then go through the workflow of importing it using gitkraken, opening in jupyter lab, etc.
 
+ 2. After reading through the file, I recommend using the code visualizer at `pythontutor.com <http://pythontutor.com/live.html#mode=edit>`_ to look at each of the functions and how they work.
 
 =====
 Day 3
