@@ -10,7 +10,7 @@ THEME=elegant-secure
 
 
 SSH_HOST=web 
-SSH_TARGET_DIR=markbetnel.com/courses/ct-data/me
+SSH_TARGET_DIR=markbetnel.com/courses/data-spring/me
 
 DROPBOX_DIR=~/Dropbox/Public/
 

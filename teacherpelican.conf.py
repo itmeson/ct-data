@@ -3,7 +3,7 @@
 
 AUTHOR = u"Mark Betnel"
 SITENAME = u"Computational Thinking - Data"
-SITEURL = 'https://markbetnel.com/courses/ct-data/me'
+SITEURL = 'https://markbetnel.com/courses/data-spring/me'
 
 TIMEZONE = 'America/Los_Angeles'
 GOOGLE_ANALYTICS = "UA-20141547-1"

@@ -1,7 +1,7 @@
 Week 6  
 ######
 
-:date: 2019-01-14
+:date: 2019-04-22
 :summary: Data project 5 on function and looking at visualization examples
 :category: weeks
 :tags: visualization, functions

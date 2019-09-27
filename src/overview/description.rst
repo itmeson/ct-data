@@ -2,7 +2,7 @@ Course Description
 ##################
 
 
-:date: 2018-11-13
+:date: 2019-03-01
 :summary: What is the computational thinking course about data about?
 :tags: overview, start, ubd, syllabus
 :category: overview

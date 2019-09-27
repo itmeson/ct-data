@@ -1,7 +1,7 @@
 Week 7  
 ######
 
-:date: 2019-01-21
+:date: 2019-04-29
 :summary: Working to better understand what is going on in a program
 :category: weeks
 :tags: repl

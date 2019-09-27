@@ -1,7 +1,7 @@
 Week 8  
 ######
 
-:date: 2019-01-28
+:date: 2019-05-06
 :summary: Working on general programming skills in python
 :category: weeks
 :tags: python, programming, variables, control flow

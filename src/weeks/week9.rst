@@ -1,7 +1,7 @@
 Week 9  
 ######
 
-:date: 2019-02-04
+:date: 2019-05-13
 :summary: Snow week.  Looking at what data analysis is about
 :category: weeks
 :tags: data analysis, background, real world

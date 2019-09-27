@@ -1,7 +1,7 @@
 Week 5  
 ######
 
-:date: 2019-01-07
+:date: 2019-04-15
 :summary: Continuing to explore data analysis, writing functions
 :category: weeks
 :tags: functions, data, reuse
